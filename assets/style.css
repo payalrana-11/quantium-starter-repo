@@ -20,7 +20,7 @@ body{
     font-size: 16px;
     cursor: pointer;
 }
-h1{
+#dashboard-header{
     color: #00e5ff;
     text-shadow: 0 0 15px #00e5ff;
     margin : 30px 0 30px 0;

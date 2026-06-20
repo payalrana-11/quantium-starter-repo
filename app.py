@@ -22,7 +22,7 @@ fig.update_layout(
 
 
 app.layout = html.Div([
-    html.H1("Pink Morsel Sales Dashboard"),
+    html.H1(  "Pink Morsel Sales Dashboard" ,id="dashboard-header"),
 
     dcc.RadioItems(
     id="region-filter",
